@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a41f0f17-e335-464c-b0e9-5ed00cb1e259" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MjjB89r8u0tmEtpdJvlOaFvX4p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/eldpepar/Documents/SystemRole/AuthManagerSimple/src/main/java/com/eldpepar/log",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "64b29f7133ce19acee7fc77cbc14c02b"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eldpepar\Documents\SystemRole\AuthManagerSimple\src\main\java\com\eldpepar\log" />
+      <recent name="C:\Users\eldpepar\Documents\SystemRole\AuthManagerSimple\src\main\resources\mapper" />
+      <recent name="C:\Users\eldpepar\Documents\SystemRole\AuthManagerSimple\src\main\java\com\eldpepar" />
+      <recent name="C:\Users\eldpepar\Documents\SystemRole\AuthManagerSimple\src\main\resources" />
+      <recent name="C:\Users\eldpepar\Documents\SystemRole\AuthManagerSimple\src\main\java\com\eldpepar\model" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.eldpepar.controller" />
+      <recent name="com.eldpepar.mapper" />
+      <recent name="com.eldpepar.service.impl" />
+      <recent name="com.eldpepar.service" />
+      <recent name="com.eldpepar" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceAuthApplication">
+    <configuration name="ServiceAuthApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="AuthManagerSimple" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ServiceAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="AuthManagerSimple" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eldpepar.ServiceAuthApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eldpepar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceAuthApplication" />
+        <item itemvalue="Spring Boot.ServiceAuthApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a41f0f17-e335-464c-b0e9-5ed00cb1e259" name="Changes" comment="" />
+      <created>1678287750296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678287750296</updated>
+      <workItem from="1678287752244" duration="2344000" />
+      <workItem from="1678290123657" duration="3841000" />
+      <workItem from="1678294010640" duration="12159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
