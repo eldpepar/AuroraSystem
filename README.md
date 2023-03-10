@@ -11,6 +11,6 @@
 
 3.导入后端相关依赖运行后端项目，使用npm run dev运行前端项目
 
-4.浏览器中打开http://locahost:8800/doc.html查看接口文档
+4.浏览器中打开http://locahost:8800/doc.html 查看接口文档
 
-5.打开http://localhost:9528/访问管理界面，项目自动填写了用户名和密码
+5.打开http://localhost:9528/ 访问管理界面，项目自动填写了用户名和密码
